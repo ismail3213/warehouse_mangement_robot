@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker *)",
+      "Bash(net start *)",
+      "Bash(winget *)",
+      "Bash(where psql *)",
+      "Bash(start *)",
+      "Bash(psql *)",
+      "Bash(sc query *)",
+      "Bash(choco *)",
+      "Bash(timeout *)",
+      "Bash(ping *)",
+      "Bash(findstr /i postgresql)",
+      "Bash(where postgres *)",
+      "Bash(dir *)",
+      "Bash(C:\\\\Program Files\\\\PostgreSQL\\\\14\\\\bin\\\\psql.exe *)",
+      "Bash(SET PGPASSWORD=postgres)",
+      "Bash(\"C:\\\\Program Files\\\\PostgreSQL\\\\14\\\\bin\\\\psql.exe\" -U postgres -d swos -f init.sql)",
+      "Bash(export PGPASSWORD=postgres)",
+      "Bash(C:\\\\Program Files\\\\PostgreSQL\\\\14\\\\bin\\\\pg_isready.exe *)",
+      "Bash(PGPASSWORD=postgres C:\\\\Program Files\\\\PostgreSQL\\\\14\\\\bin\\\\psql.exe *)",
+      "Bash(C:\\\\Users\\\\ismai\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-ismai-Documents-projet-neuro\\\\f005c497-f8e1-47cf-924f-2ecefd7a3a07\\\\tasks\\\\b3kig3kl8.output *)",
+      "Bash(pg_isready *)"
+    ]
+  }
+}
